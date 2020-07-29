@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F2D048F3-710E-4AA3-AB09-7AD702679D77"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC45559C-0546-46A1-963A-90EFAD6C7731"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WikiPediaDemo/TableViewCell/SearchListTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "configureCell(wikiViewModel:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CDE85C2-0C3F-4E02-8877-67D1A649B269"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WikiPediaDemo/Service/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "fetchWikiData(searchtext:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBF27A84-40E6-448C-8361-5A2122456107"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WikiPediaDemo/Service/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchWikiData(searchtext:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CBF27A84-40E6-448C-8361-5A2122456107 - ee083ab7ddf39133"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WikiPediaDemo.APIManager.fetchWikiData(searchtext: Swift.String, completion: (Swift.Array&lt;WikiPediaDemo.WikiModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WikiPediaDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abinniwale/Documents/Demo/demo/WikiPediaDemo/WikiPediaDemo/Service/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1234">
+               </Location>
+               <Location
+                  uuid = "CBF27A84-40E6-448C-8361-5A2122456107 - 336888d610451cce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WikiPediaDemo.APIManager.fetchWikiData(searchtext: Swift.String, completion: (Swift.Array&lt;WikiPediaDemo.WikiModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WikiPediaDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abinniwale/Documents/Demo/demo/WikiPediaDemo/WikiPediaDemo/Service/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "755">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7ED0D73B-4457-4481-81EF-9085A7EAD098"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WikiPediaDemo/Service/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchWikiData(searchtext:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
